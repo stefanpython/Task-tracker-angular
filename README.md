@@ -2,6 +2,8 @@
 
 This project is a simple Task Tracker app made with Angular. It features the Angular user interface and utilizes JSON-server as a mock backend.
 
+![](https://github.com/stefanpython/Task-tracker-angular/blob/main/src/assets/TaskTracker.gif)
+
 ## Usage
 
 #### Install dependencies:
